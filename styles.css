@@ -1,0 +1,88 @@
+.icon{
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+	margin-left: 20px;
+	margin-top: 20px;
+   border-right: 1px solid salmon;
+	
+}
+
+
+
+.container{
+	background-color: black;
+	color: white;
+	padding-bottom: 20px;
+}
+
+.people, .acc-img{
+	border-radius: 50%;
+	border-style: dotted;
+	border-color: salmon;
+}
+
+
+.profile{
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+	margin-left: 40px;
+	width: 600px;
+	margin-top: 20px;
+}
+
+.video{
+	margin-top: 20px;
+	margin-left: 40px;
+}
+.poster{
+    float: left;
+    border-radius: 50%;
+    border: dotted salmon ;
+    margin-bottom: 20px;
+    margin-right: 15px;
+}
+
+p{
+	margin-bottom: 0px;
+	margin-right: 10px;
+}
+
+.dot-para{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.download{
+	float: right;
+}
+
+.account{
+	margin-top: 20px;
+
+}
+
+.acc-img{
+	margin-left: 110px;
+}
+  
+h5, .acc-info{
+	text-align: center;
+}
+
+.about-account{
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+} 
+
+.about-page{
+  margin-left: 60px;
+}
+ 
+ .btn{
+
+ 	margin-top: 20px;
+ }
